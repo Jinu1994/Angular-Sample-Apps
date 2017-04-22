@@ -1,0 +1,16 @@
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+ Pre reuqisites :
+ 
+ 1. install the latest version of npm 
+        npm install npm@latest -g
+ 2. Install typescript gloabally on your system 
+        npm install -g typescript
+ 
+ -------------------------------------------------------------------------------------------------------------------------------------------
+ After you've installed typescript , navigate to the MovieApp-angular directory. 
+ 
+ Install all the dependencies using the following command : npm install 
+ 
+ Once this is done , start the app by running : npm start
